@@ -8,7 +8,7 @@
 | 课程 | 进度 | 所属专业 |
 |---|---|---|
 | 复变函数与积分变换 | 🚧 15%  | automation |
-| 人工智能导论 | ✅ 完  | automation |
+| 人工智能导论 | ♻️ 归纳中  | automation |
 | 大学物理学 | 🚧 40% | main |
 | 计算机网络 | 🚧 60% | automation |
 | C语言数据结构 | 🚧 60% | automation |
