@@ -10,7 +10,7 @@
 |---|---|---|
 | 复变函数与积分变换 | 🚧 15%  | automation |
 | 人工智能导论 | ✅ 完成  | automation |
-| 大学物理学 | 🚧 40% | main |
+| 大学物理学 | ✅ 完成 | main |
 | 计算机网络 | 🚧 60% | automation |
 | C语言数据结构 | 🚧 40% | automation |
 | 模拟电子技术基础 | 🚧 60% | main |
@@ -58,3 +58,7 @@ Fork → 新建分支 → 提交 PR
 - [TONJA233](https://github.com/TONJA233)
 - [Varlin-iScience](https://github.com/Varlin-iScience)
 - [Xuanna024](https://github.com/BI7KHI)
+- [molqzone](https://github.com/molqzone)
+<a href="https://github.com/Kyunana097/GDUT-REVIEW-NOTES/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kyunana097/GDUT-REVIEW-NOTES" />
+</a>
